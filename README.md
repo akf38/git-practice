@@ -1,4 +1,2 @@
 hoge
 huga
-funfun
-funfun
